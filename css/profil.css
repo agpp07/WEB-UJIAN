@@ -1,0 +1,48 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+}
+
+.profile-image {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.profile-image img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.profile-image button {
+    /* Gaya untuk tombol ganti foto */
+    margin-right: 10px;
+}
+
+
+form {
+    /* Gaya untuk formulir */
+    /* Sesuaikan dengan desain Anda */
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input, select, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+button[type="submit"] {
+    /* Gaya untuk tombol simpan */
+    /* Sesuaikan dengan desain Anda */
+}
