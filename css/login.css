@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgba(255, 255, 255, 0.9); /* Warna putih dengan transparansi 90% */
+    background-image: url('/image/logo-sekolah.png');
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+}
+
+.login-container {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 200px;
+    text-align: center;
+}
+
+h1 {
+    color: #092e64;
+    margin-bottom: 0px;
+    font-size: 50px;
+}
+
+
+p a {
+    color: #333;
+    margin-bottom: 60px;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    text-align: left;
+}
+
+input {
+    width: 90%;
+    padding: 20px;
+    margin-bottom: 40px;
+    
+}
+
+button {
+    background-color: #092e64;
+    color: white;
+    padding: 15px 100px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+}
