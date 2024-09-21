@@ -14,8 +14,8 @@
                 <a href="">Ijal Udin</a>
             </div>
             <ul>
-                <li><a href="home.html">HOME</a></li>
-                <li><a href="profil.html">PROFIL</a></li>
+                <li><a href="home.php">HOME</a></li>
+                <li><a href="profil.php">PROFIL</a></li>
                 <li><a href="#">HISTORY</a></li>
                 <li><a href="#">PETUNJUK</a></li>
                 <li><a href="#">LOG OUT</a></li>
